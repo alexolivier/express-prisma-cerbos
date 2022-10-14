@@ -30,6 +30,6 @@
     "express": "^4.17.1",
     "express-basic-auth": "^1.2.0",
     "http-auth": "^4.1.9",
-    "http-auth-connect": "^1.0.5"
+    "http-auth-connect": "^1.0.6"
   }
 }
